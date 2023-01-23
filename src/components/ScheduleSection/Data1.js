@@ -1,0 +1,91 @@
+export const Data1 = [
+    {
+        time: "12:00am - 1:00am",
+        event: 'Workshop',
+        location: 'T.B.D.',
+        description: 'T.B.D',
+    },
+    {
+        time: "7:00am",
+        event: 'Breakfast',
+        location: 'Commons Annex Basement Lobby',
+        description: 'T.B.D',
+    },
+    {
+        time: "10:00am - 11:00am",
+        event: 'Workshop',
+        location: 'T.B.D.',
+        description: 'T.B.D',
+    },
+    {
+        time: "12:15pm",
+        event: 'Lunch',
+        location: 'Commons Annex Basement Lobby',
+        description: 'T.B.D.',
+    },
+    {
+        time: "4:00pm",
+        event: 'Project Submissions Due',
+        location: '',
+        description: 'Make sure everything is submitted by 4:00pm. We will not accept late submissions. ' +
+            'Submit projects to our',
+        linkWord: 'Devpost',
+        link: 'https://calvinhacks-2022.devpost.com/',
+    },
+    {
+        time: "5:00pm",
+        event: 'Hacking Ends',
+        location: '',
+        description: '',
+    },
+    {
+        time: "5:15pm - 6:25pm",
+        event: 'Project Expo (Judging Round 1)',
+        location: 'Commons Annex Basement',
+        description: 'Showcase projects exposition-style',
+    },
+    {
+        time: "6:15pm",
+        event: 'Dinner',
+        location: 'Commons Annex Basement Lobby',
+        description: 'T.B.D',
+    },
+    {
+        time: "6:30pm",
+        event: 'Finalists Selected',
+        location: 'Commons Annex Basement',
+        description: 'Announcing the projects/teams that will move to the final round.',
+    },
+    {
+        time: "6:45pm",
+        event: 'Closing Ceremony',
+        location: 'Commons Annex Basement',
+        description: 'Announcing the Winners',
+    },
+    {
+        time: "6:50pm - 7:20pm",
+        event: 'Finalist Presentations (Judging Round 2)',
+        location: 'Commons Annex Basement',
+        description: 'Finalists present their projects to the panel of judges.',
+    },
+    {
+        time: "7:35pm",
+        event: 'Announce Winners, Hand Out Prizes',
+        location: 'Commons Annex Basement',
+        description: 'Prizes can be viewed at our',
+        linkWord: 'Devpost',
+        link: 'https://calvinhacks-2022.devpost.com/',
+    },
+    {
+        time: "8:10pm",
+        event: 'Event Ends',
+        location: 'Commons Annex Basement',
+        description: 'Wrapping things up!',
+    },
+    {
+        time: "9:00pm",
+        event: 'Venue closes for participants',
+        location: 'Commons Annex Basement',
+        description: 'Thank you and we hope to see you again next year!',
+    },
+]
